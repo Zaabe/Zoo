@@ -9,7 +9,7 @@ import utils.GameUtils;
  * Gli animali hanno dei cibi preferiti FATTO
  * Gli aniamli fanno versi diversi FATTO
  *
- * Completamento barra felicit� giornaliera
+ * Completamento barra felicità giornaliera
  * Dopo tot turni spawna un figlio se si hanno un maschio e una femmina nel recinto
  * Animali divisi per recinti
  *
@@ -30,7 +30,7 @@ public class ZooMain {
 		while (game.handleTurn(turn) == 0) {
 			// La partita va avanti
 			Animal animal = animalsUtils.spawnAnimal();
-			System.out.println("E' apparso un animale!: " + animal.getName());
+			System.out.println("È apparso un animale!: " + animal.getName());
 			String food = animalsUtils.askFood();
 			animal.feed(food);
 			turn = turn + 1;
