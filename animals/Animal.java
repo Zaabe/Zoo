@@ -16,12 +16,16 @@ public class Animal {
 	}
 
 	public void feed(String food) {
-		System.out.println(cry);
+		makeCry();
 		if (food.equals(preferredFood)) {
 			System.out.println("Mangia felicemente e sembra piacergli!");
 		} else {
 			System.out.println("Non sembra piacergli molto...");
 		}
+	}
+
+	public void makeCry(){
+		System.out.println(cry);
 	}
 
 	public String getName() {

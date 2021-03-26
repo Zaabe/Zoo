@@ -11,7 +11,7 @@ public class GameUtils {
 		Scanner scan = new Scanner(System.in);
 			
 		if(turn == 0) {
-			System.out.println("Benvenuto! Questa è una simulazione (brutta) di uno Zoo! Iniziamo!");
+			System.out.println("Benvenuto! Questa Ã¨ una simulazione (brutta) di uno Zoo! Iniziamo!");
 			return 0;
 		}
 		else {

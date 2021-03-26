@@ -9,15 +9,16 @@ import utils.GameUtils;
  * Gli animali hanno dei cibi preferiti FATTO
  * Gli aniamli fanno versi diversi FATTO
  *
- * Completamento barra felicità giornaliera
- * Dopo tot turni spawna un figlio se si hanno un maschio e una femmina nel recinto
- * Animali divisi per recinti
+ * TODO Completamento barra felicità giornaliera
+ * TODO Dopo tot turni spawna un figlio se si hanno un maschio e una femmina nel recinto
+ * TODO Animali divisi per recinti
  *
- * Introdurre id autoincrementali per rendere univoci gli animali
- * Introdurre gestione del cibo tramite classe aggiuntiva con array di cibi ammessi ed utilizzare nei campi dei cibi preferiti dei singoli animali e nell'input del cibo dall'utente
- * Gestire meglio i sessi per fare i regazzini
- * Introdurre nuovi animali
- * Gestire animali con un unico sesso (gallina, mucca, toro ecc.)
+ * TODO COMPITI
+ * TODO Introdurre id autoincrementali per rendere univoci gli animali
+ * TODO Introdurre gestione del cibo tramite classe aggiuntiva con array di cibi ammessi ed utilizzare nei campi dei cibi preferiti dei singoli animali e nell'input del cibo dall'utente
+ * TODO Gestire meglio i sessi per fare i regazzini
+ * TODO Introdurre nuovi animali
+ * TODO Gestire animali con un unico sesso (gallina, mucca, toro ecc.)
  */
 
 public class ZooMain {
