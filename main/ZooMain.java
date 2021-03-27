@@ -15,7 +15,7 @@ import utils.GameUtils;
  *
  * TODO COMPITI
  * TODO Introdurre id autoincrementali per rendere univoci gli animali
- * TODO Introdurre gestione del cibo tramite classe aggiuntiva con array di cibi ammessi ed utilizzare nei campi dei cibi preferiti dei singoli animali e nell'input del cibo dall'utente
+ * TODO Introdurre gesmpi dei cibi preferiti tione del cibo tramite classe aggiuntiva con array di cibi ammessi ed utilizzare nei cadei singoli animali e nell'input del cibo dall'utente
  * TODO Gestire meglio i sessi per fare i regazzini
  * TODO Introdurre nuovi animali
  * TODO Gestire animali con un unico sesso (gallina, mucca, toro ecc.)
